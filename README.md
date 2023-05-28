@@ -1,6 +1,6 @@
 # EX-6 IMPLEMENTATION OF PING COMMAND
 
-DATE :
+### DATE : 12-04-2023
 
 ## AIM :
 To write the python program for simulating ping command.
@@ -54,9 +54,9 @@ while True:
 ## OUTPUT :
 
 ## Client
-![](6c.png)
+![](1.png)
 ## Server
-![](6s.png)
+![](2.png)
 
 ## RESULT :
 Thus, the python program for simulating ping command was successfully executed
